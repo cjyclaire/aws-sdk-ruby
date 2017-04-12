@@ -1,6 +1,31 @@
 Unreleased Changes
 ------------------
 
+2.9.7 (2017-04-11)
+------------------
+
+* Feature - Aws::APIGateway - Updated the API, and documentation for Amazon API Gateway.
+
+* Feature - Aws::Batch - Updated the API, and documentation for AWS Batch.
+
+* Feature - Aws::GameLift - Updated the API, and documentation for Amazon GameLift.
+
+* Feature - Aws::OpsWorks - Updated the API, and documentation for AWS OpsWorks.
+
+2.9.6 (2017-04-07)
+------------------
+
+* Feature - Aws::Redshift - Updated the API, and documentation for Amazon Redshift.
+
+2.9.5 (2017-04-06)
+------------------
+
+* Feature - Aws::ElasticLoadBalancingV2 - Updated the documentation for Elastic Load Balancing.
+
+* Feature - Aws - Added `Aws.empty_connection_pools!` feature to allow for manual clearing of connection pools. This may be helpful for applications where a conneciton pool is shared across processes.
+
+  Resolves [GitHub Issue #1438](https://github.com/aws/aws-sdk-ruby/issues/1438).
+
 2.9.4 (2017-04-05)
 ------------------
 
