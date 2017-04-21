@@ -1,6 +1,45 @@
 Unreleased Changes
 ------------------
 
+2.9.10 (2017-04-20)
+------------------
+
+* Feature - Aws::DeviceFarm - Updated the API, and documentation for AWS Device Farm.
+
+* Feature - Aws::DirectConnect - Updated the documentation for AWS Direct Connect.
+
+* Feature - Aws::ElasticLoadBalancingV2 - Updated the waiters for Elastic Load Balancing.
+
+* Feature - Aws::KMS - Updated the documentation for AWS Key Management Service.
+
+* Feature - Aws::Route53 - Updated the documentation for Amazon Route 53.
+
+* Feature - Aws::Route53Domains - Updated the API, and documentation for Amazon Route 53 Domains.
+
+2.9.9 (2017-04-19)
+------------------
+
+* Feature - Aws::APIGateway - Updated the API, and documentation for Amazon API Gateway.
+
+* Feature - Aws::EC2 - Updated the API, and documentation for Amazon Elastic Compute Cloud.
+
+* Feature - Aws::IAM - Updated the API, and documentation for AWS Identity and Access Management.
+
+* Feature - Aws::Lambda - Updated the API, and documentation for AWS Lambda.
+
+* Feature - Aws::Polly - Updated the API, and documentation for Amazon Polly.
+
+* Feature - Aws::Rekognition - Updated the API, and documentation for Amazon Rekognition.
+
+* Feature - Aws::CodeStar - Added support for a new service, AWS CodeStar.
+
+* Feature - Aws::LexModelBuildingService - Added support for a new service, Amazon Lex Model Building Service.
+
+2.9.8 (2017-04-18)
+------------------
+
+* Feature - Aws::Lambda - Updated the API, and documentation for AWS Lambda.
+
 2.9.7 (2017-04-11)
 ------------------
 
