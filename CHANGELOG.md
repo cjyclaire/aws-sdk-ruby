@@ -1,6 +1,15 @@
 Unreleased Changes
 ------------------
 
+* Feature - Aws::S3 - Added Multipart Download Helper feature to support different mode (`:auto`, `:single_request`, `:get_range`) in downloading large objects with `#download_file` in multipart when possible.
+
+2.9.11 (2017-04-21)
+------------------
+
+* Feature - Aws::AppStream - Updated the API, and documentation for Amazon AppStream.
+
+* Feature - Aws::Kinesis - Updated the API, documentation, and waiters for Amazon Kinesis.
+
 2.9.10 (2017-04-20)
 ------------------
 
